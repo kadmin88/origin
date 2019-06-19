@@ -8,3 +8,8 @@ echo $i
 
 done
 
+
+
+echo "is must be at only mudezh branch"
+
+
